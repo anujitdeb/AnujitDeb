@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
--  https://AnujitDeb.github.io/portfolio/ this is my **portfolio.
+-  https://AnujitDeb.github.io/portfolio/ this is my portfolio.
 
 - 🌱 I’m currently learning **CP Algorithms and Laravel.**
 
