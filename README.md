@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on an e-learning platform
+-  https://AnujitDeb.github.io/portfolio/ this is my portfolio.**
 
-- 🌱 I’m currently learning **CP Algorithms and Laravel**
+- 🌱 I’m currently learning **CP Algorithms and Laravel.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
