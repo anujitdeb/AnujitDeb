@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **CP Algorithms and Laravel.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to reach me **anujitdeb99@gmail.com**
 
 - ⚡ Fun fact **I play cricket.**
