@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **CP Algorithms and Laravel.**
 
-- 📫 How to reach me **anujitdeb99@gmail.com**
+- 📫 How to reach me **anujitdeb.sub@gmail.com**
 
 - ⚡ Fun fact **I play cricket.**
 
