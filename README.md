@@ -8,6 +8,8 @@
 
 -  https://AnujitDeb.github.io/portfolio/ this is my portfolio.
 
+- I’m currently working as a **Software Engineer** at Creative Business Group.
+  
 - 🌱 I’m currently learning **CP Algorithms and Laravel.**
 
 - 📫 How to reach me **anujitdebbd@gmail.com**
