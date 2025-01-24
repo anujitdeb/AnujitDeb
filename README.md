@@ -7,7 +7,8 @@
 Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used **🚀<a href = "https://bitbucket.org/">Bitbucket</a>🚀** during my professional experience. As a       
   developer, I have extensively worked on repositories hosted on Bitbucket, collaborating on various projects and contributing to production-grade code.
   
-  In my GitHub's showcase projects I tried to show my **💡skills, code structure, clean code architecture, and optimization<b/>💡**. Feel free to explore my repositories, and don't hesitate to reach    out if you'd like to know more about my professional work or technical expertise.
+  In my GitHub's showcase projects I tried to show my **💡skills, code structure, clean code architecture, and optimization<b/>💡**. 
+  Feel free to explore my repositories, and don't hesitate to reach    out if you'd like to know more about my professional work or technical expertise.
 
 
 ## 🙋‍♂️ About Me
