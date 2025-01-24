@@ -1,12 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anujit Deb</h1>
-<h3 align="center">I'm a full stack Software Engineer from Bangladesh.</h3>
 
-  Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used <span style="color:blue;">Bitbucket</span> during my <span style="color:blue;">professional experience</span> over the past two years. 
-  As a developer, I have extensively worked on repositories hosted on <span style="color:blue;">Bitbucket</span>, collaborating on various projects and contributing to <span style="color:blue;">production-grade code</span>.
+<h3 align="center">I'm a full stack Software Engineer from Bangladesh.</h3>
+Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used 🚀<b>Bitbucket</b>🚀 during my 🌟<b>professional experience</b>🌟 over the past two years. 
+  As a developer, I have extensively worked on repositories hosted on 🚀<b>Bitbucket</b>🚀, collaborating on various projects and contributing to 🌟<b>production-grade code</b>🌟.
   
-  In my GitHub's showcase projects, I tried to show my <span style="color:green;">skills</span>, <span style="color:green;">code structure</span>, <span style="color:green;">clean code architecture</span>, and <span style="color:green;">optimization</span>. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to know more about my <span style="color:blue;">professional work</span> or <span style="color:blue;">technical expertise</span>.
+  In my GitHub's showcase projects, I tried to show my 💡<b>skills</b>, 💡<b>code structure</b>, 💡<b>clean code architecture</b>, and 💡<b>optimization</b>. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to know more about my 🌟<b>professional work</b>🌟 or 🌟<b>technical expertise</b>🌟.
+</h5>
 
 
 ## 🙋‍♂️ About Me
