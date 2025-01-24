@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anujit Deb</h1>
 
 <h3 align="center">I'm a full stack Software Engineer from Bangladesh.</h3>
-Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used 🚀<b>Bitbucket</b>🚀 during my professional experience over the past two years. As a       
+Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used 🚀<a href = "https://bitbucket.org/">Bitbucket</a>🚀 during my professional experience over the past two years. As a       
   developer, I have extensively worked on repositories hosted on Bitbucket, collaborating on various projects and contributing to production-grade code.
   
   In my GitHub's showcase projects I tried to show my 💡<b>skills, code structure, clean code architecture, and optimization<b/>💡. Feel free to explore my repositories, and don't hesitate to reach    out if you'd like to know more about my professional work or technical expertise.
