@@ -4,11 +4,12 @@
 <h3 align="center">I'm a full stack Software Engineer from Bangladesh.</h3>
 
 <h5 align="center">
-  Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used <b>Bitbucket</b> during my <b>professional experience</b> over the past two years. 
-  As a developer, I have extensively worked on repositories hosted on <b>Bitbucket</b>, collaborating on various projects and contributing to <b>production-grade code</b>.
+  Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used <i>Bitbucket</i> during my <i>professional experience</i> over the past two years. 
+  As a developer, I have extensively worked on repositories hosted on <i>Bitbucket</i>, collaborating on various projects and contributing to <i>production-grade code</i>.
   
-  In my GitHub's showcase projects, I tried to show my <b>skills</b>, <b>code structure</b>, <b>clean code architecture</b>, and <b>optimization</b>. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to know more about my <b>professional work</b> or <b>technical expertise</b>.
+  In my GitHub's showcase projects, I tried to show my <i>skills</i>, <i>code structure</i>, <i>clean code architecture</i>, and <i>optimization</i>. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to know more about my <i>professional work</i> or <i>technical expertise</i>.
 </h5>
+
 
 
 ## 🙋‍♂️ About Me
