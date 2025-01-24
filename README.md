@@ -4,10 +4,10 @@
 <h3 align="center">I'm a full stack Software Engineer from Bangladesh.</h3>
 
 <h5 align="center">
-  Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used <i>Bitbucket</i> during my <i>professional experience</i> over the past two years. 
-  As a developer, I have extensively worked on repositories hosted on <i>Bitbucket</i>, collaborating on various projects and contributing to <i>production-grade code</i>.
+  Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used <span style="color:blue;">Bitbucket</span> during my <span style="color:blue;">professional experience</span> over the past two years. 
+  As a developer, I have extensively worked on repositories hosted on <span style="color:blue;">Bitbucket</span>, collaborating on various projects and contributing to <span style="color:blue;">production-grade code</span>.
   
-  In my GitHub's showcase projects, I tried to show my <i>skills</i>, <i>code structure</i>, <i>clean code architecture</i>, and <i>optimization</i>. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to know more about my <i>professional work</i> or <i>technical expertise</i>.
+  In my GitHub's showcase projects, I tried to show my <span style="color:green;">skills</span>, <span style="color:green;">code structure</span>, <span style="color:green;">clean code architecture</span>, and <span style="color:green;">optimization</span>. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to know more about my <span style="color:blue;">professional work</span> or <span style="color:blue;">technical expertise</span>.
 </h5>
 
 
