@@ -43,6 +43,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AnujitDeb">
+    <img src="https://komarev.com/ghpvc/?username=anujitdeb">
 </a>
-<a href="https://github.com/AnujitDeb?tab=followers"><img src="https://img.shields.io/github/followers/AnujitDeb?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/anujitdeb?tab=followers"><img src="https://img.shields.io/github/followers/AnujitDeb?label=Followers&style=social" alt="GitHub Badge"></a>
