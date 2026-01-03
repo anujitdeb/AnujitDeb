@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a full stack Software Engineer from Bangladesh.</h3>
 
-Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily used **🚀<a href = "https://bitbucket.org/">Bitbucket</a>🚀** during my professional experience. As a       
+Thank you for visiting my GitHub profile! While you'll find some showcase projects here, I primarily use **🚀<a href = "https://bitbucket.org/">Bitbucket</a>🚀** during my professional experience. As a       
   developer, I have extensively worked on repositories hosted on Bitbucket, collaborating on various projects and contributing to production-grade code.
   
   In my GitHub's showcase projects I tried to show my **💡skills, code structure, clean code architecture, and optimization<b/>💡.**
