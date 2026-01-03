@@ -16,9 +16,9 @@ Thank you for visiting my GitHub profile! While you'll find some showcase projec
 
 -  https://anujit.me this is my portfolio.
 
-- I’m currently working as a **Software Engineer** at Creative Business Group.
+- I’m currently working as a **augmented Software Engineer** at Grameenphone Limited.
   
-- 🌱 I’m currently learning **Laravel,Vue.js.**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **anujitdebbd@gmail.com**
 
